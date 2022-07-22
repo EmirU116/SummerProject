@@ -1,2 +1,0 @@
-# SummerProject
- Unreal Summer Project
